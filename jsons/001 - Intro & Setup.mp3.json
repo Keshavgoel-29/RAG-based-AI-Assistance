@@ -1,0 +1,1888 @@
+{
+  "chunks": [
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 0.0,
+      "end": 6.0,
+      "text": " Hello there! In this tutorial series, you are going to learn everything about the Python programming language."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 6.0,
+      "end": 10.0,
+      "text": " And just to get started, I will cover two major parts."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 10.0,
+      "end": 13.0,
+      "text": " Number one, why choose Python in the first place?"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 13.0,
+      "end": 17.0,
+      "text": " Number two is going to be about how to get started."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 17.0,
+      "end": 20.0,
+      "text": " First of all though, why choose Python in the first place?"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 20.0,
+      "end": 25.0,
+      "text": " And for that, you have to be aware that there are hundreds of programming languages."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 25.0,
+      "end": 29.0,
+      "text": " And usually, a language is made for a specific purpose."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 29.0,
+      "end": 35.0,
+      "text": " For example, JavaScript was initially developed to make websites interactive and super shiny."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 35.0,
+      "end": 40.0,
+      "text": " Although ever since then, it basically expanded to do pretty much everything."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 40.0,
+      "end": 44.0,
+      "text": " Python on the other hand was originally developed to teach people coding."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 44.0,
+      "end": 48.0,
+      "text": " Back then, it wasn't even meant to be an actual programming language."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 48.0,
+      "end": 52.0,
+      "text": " But over time, it grew very fast and was steadily expanded,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 52.0,
+      "end": 55.0,
+      "text": " and eventually it became a real programming language,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 55.0,
+      "end": 58.0,
+      "text": " that was actually surprisingly popular."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 58.0,
+      "end": 63.0,
+      "text": " Today, actually, Python is arguably the most popular programming language."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 63.0,
+      "end": 66.0,
+      "text": " With that, we are getting a couple of advantages."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 66.0,
+      "end": 72.0,
+      "text": " Most importantly, because of its history, Python is incredibly easy to learn and to use."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 72.0,
+      "end": 78.0,
+      "text": " It is incredibly streamlined, very forgiving, and makes it super easy to find mistakes."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 78.0,
+      "end": 82.0,
+      "text": " On top of that, there is a huge community around Python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 82.0,
+      "end": 85.0,
+      "text": " Which is amazing if you have a question or want a tutorial."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 85.0,
+      "end": 89.0,
+      "text": " Because somebody probably already asked a question or made a tutorial on it."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 89.0,
+      "end": 94.0,
+      "text": " Also, because of this huge community, there are lots of expansions to Python,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " that all make the language even more useful."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 96.0,
+      "end": 101.0,
+      "text": " Finally, Python is primarily used for data analysis, artificial intelligence,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 101.0,
+      "end": 104.0,
+      "text": " and servers or data stuff in general."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 104.0,
+      "end": 108.0,
+      "text": " Jobs that are very much in demand and generally well paid."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 108.0,
+      "end": 113.0,
+      "text": " However, you have to be aware that there are some disadvantages when it comes to Python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 113.0,
+      "end": 117.0,
+      "text": " The most noticeable one is that Python is comparatively slow."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 117.0,
+      "end": 121.0,
+      "text": " It sacrifices speed to be more flexible and easy to use."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 121.0,
+      "end": 125.0,
+      "text": " Which in most cases is not going to matter for your specific purpose."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 125.0,
+      "end": 128.0,
+      "text": " Which for most cases isn't really going to make a difference."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 128.0,
+      "end": 132.0,
+      "text": " And lots of modules in Python are actually getting around this limitation."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 132.0,
+      "end": 136.0,
+      "text": " Where you notice this limitation the most is in game development."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 136.0,
+      "end": 142.0,
+      "text": " Now, you can make games in Python, but it's not really a professional thing."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 142.0,
+      "end": 146.0,
+      "text": " Most of the time it's either a hobby or a way to learn programming."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 146.0,
+      "end": 150.0,
+      "text": " If you want to learn actual game development, you would want to use a game engine."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 150.0,
+      "end": 153.0,
+      "text": " Like Godot, Unreal or Unity."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 153.0,
+      "end": 157.0,
+      "text": " Besides that, Python isn't really used for apps or user interfaces."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 157.0,
+      "end": 163.0,
+      "text": " Once again, you could be using it for that purpose, but there are better tools available."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 163.0,
+      "end": 166.0,
+      "text": " You would rather use React or something like Flutter."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 166.0,
+      "end": 170.0,
+      "text": " Which are giving you significantly more and better tools."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 170.0,
+      "end": 174.0,
+      "text": " Finally, Python is giving you less control over the hardware."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 174.0,
+      "end": 178.0,
+      "text": " Now this in most cases is a kind of control you don't really care about."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 178.0,
+      "end": 184.0,
+      "text": " For example, in other languages you could control the memory management of your computer."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 184.0,
+      "end": 187.0,
+      "text": " And if you don't know what that means, don't worry too much about it."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 187.0,
+      "end": 190.0,
+      "text": " You are probably not going to use it in the first place."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 190.0,
+      "end": 194.0,
+      "text": " The general philosophy of Python is to abstract all of these problems away."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 194.0,
+      "end": 198.0,
+      "text": " So you can focus on the actual logic of what you are trying to achieve."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " With that, you might have the question."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 200.0,
+      "end": 204.0,
+      "text": " If you are just starting, what programming language should you start with?"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 204.0,
+      "end": 207.0,
+      "text": " And for that question, Python is usually a good answer."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 207.0,
+      "end": 210.0,
+      "text": " Mostly because it is incredibly easy to learn."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 210.0,
+      "end": 215.0,
+      "text": " What you can do, if you don't end up liking Python or want to do something else."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 215.0,
+      "end": 220.0,
+      "text": " It is very easy to switch to another programming language and then retain most of the knowledge."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 220.0,
+      "end": 223.0,
+      "text": " Programming languages share a lot of ideas."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 223.0,
+      "end": 229.0,
+      "text": " Meaning if you know Python, it becomes significantly easier to learn something like C++ or JavaScript"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 229.0,
+      "end": 232.0,
+      "text": " or literally any other programming language."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 232.0,
+      "end": 236.0,
+      "text": " Alright, now with all of that, we have to talk about how to use Python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " And there are two steps to that."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 238.0,
+      "end": 241.0,
+      "text": " Number one, we have to install Python itself."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 241.0,
+      "end": 244.0,
+      "text": " It's just going to be another file on your computer."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 244.0,
+      "end": 247.0,
+      "text": " After that, we are going to need a code editor."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 247.0,
+      "end": 252.0,
+      "text": " I am going to use Visual Studio Code, or VS Code in short."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 252.0,
+      "end": 256.0,
+      "text": " Which is I think the most popular code editor."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 256.0,
+      "end": 258.0,
+      "text": " Although there are quite a few alternatives."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 258.0,
+      "end": 262.0,
+      "text": " Sublime, PyCharm and Atom are really popular ones as well."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 262.0,
+      "end": 264.0,
+      "text": " And there are loads more."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 264.0,
+      "end": 268.0,
+      "text": " If you already know some coding and you have a code editor that you really like to use,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " you can totally keep on using that one."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 270.0,
+      "end": 274.0,
+      "text": " Alright, so let's get started on how to install Python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 274.0,
+      "end": 278.0,
+      "text": " For that, you want to go to Google and type something like Python download."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 278.0,
+      "end": 280.0,
+      "text": " Or simply Python should also be good enough."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 281.0,
+      "end": 285.0,
+      "text": " Then the first result should be the official Python website."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 285.0,
+      "end": 289.0,
+      "text": " Click on that and then you can see a Python download button."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 289.0,
+      "end": 295.0,
+      "text": " At the moment, the most recent version of Python is Python 3.12."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 295.0,
+      "end": 298.0,
+      "text": " Which is what I am going to use for this tutorial."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 298.0,
+      "end": 301.0,
+      "text": " If you click on that, a download should start."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 301.0,
+      "end": 305.0,
+      "text": " Once this one is done, you can go to your downloads folder."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 305.0,
+      "end": 309.0,
+      "text": " Double click on the Python symbol and then you should get the install dialog."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 309.0,
+      "end": 313.0,
+      "text": " Before you click on install now, there is one really important thing you have to do."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 313.0,
+      "end": 316.0,
+      "text": " And that is to add python.exe to path."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 316.0,
+      "end": 318.0,
+      "text": " If you are on Windows."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 318.0,
+      "end": 321.0,
+      "text": " On Mac OS, this is happening automatically."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 321.0,
+      "end": 324.0,
+      "text": " But on Windows, you have to make sure that you are adding Python to the path."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 324.0,
+      "end": 329.0,
+      "text": " That way a code editor could find the program and use it to run Python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 329.0,
+      "end": 332.0,
+      "text": " If you are not ticking this box, you are going to have lots of errors."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 332.0,
+      "end": 333.0,
+      "text": " So make sure to tick it."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 333.0,
+      "end": 335.0,
+      "text": " And then click on install now."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 335.0,
+      "end": 338.0,
+      "text": " You can also customize the installation, but you don't really need to."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 338.0,
+      "end": 342.0,
+      "text": " Then you have to wait a few seconds and after that you should have Python installed."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 342.0,
+      "end": 345.0,
+      "text": " Next up, we have to get a code editor."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 345.0,
+      "end": 349.0,
+      "text": " And in my case, I want to use Visual Studio Code or VS Code in short."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 349.0,
+      "end": 354.0,
+      "text": " For that, go back to your search engine of choice and type in VS Code download."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 354.0,
+      "end": 357.0,
+      "text": " The first result should be what you need."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 357.0,
+      "end": 360.0,
+      "text": " And on that website, you can choose your operating system."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 360.0,
+      "end": 362.0,
+      "text": " In my case, I am working on Windows."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 362.0,
+      "end": 366.0,
+      "text": " But obviously, if you are on Mac OS, click on the Mac download button."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 366.0,
+      "end": 369.0,
+      "text": " Click on the icon and then you can install it like any other program."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 369.0,
+      "end": 372.0,
+      "text": " I would recommend to keep all the default options."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 372.0,
+      "end": 375.0,
+      "text": " But do make sure that you have the add to path ticked."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 375.0,
+      "end": 377.0,
+      "text": " That one does matter."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 377.0,
+      "end": 381.0,
+      "text": " After all of that is done, you can click on launch Visual Studio Code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 381.0,
+      "end": 384.0,
+      "text": " Which is what I want to do."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 384.0,
+      "end": 388.0,
+      "text": " Once you have done that, you should be seeing something like this."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 388.0,
+      "end": 392.0,
+      "text": " Now, the main window you don't really have to worry about too much."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 392.0,
+      "end": 395.0,
+      "text": " What is rather important is on the left side."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 395.0,
+      "end": 398.0,
+      "text": " There you have a couple of icons that are much more important."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 398.0,
+      "end": 402.0,
+      "text": " For example, at the top we have the explorer."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 402.0,
+      "end": 406.0,
+      "text": " And in there you can see all of your open folders and files."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 406.0,
+      "end": 410.0,
+      "text": " As a matter of fact, while we are here, I want to open a folder,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 410.0,
+      "end": 412.0,
+      "text": " which I am going to use for all of my files."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 412.0,
+      "end": 416.0,
+      "text": " Meaning I want to open a folder, and then you should be seeing something like this."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 416.0,
+      "end": 421.0,
+      "text": " Basically what you want to do is to create a folder with all of your code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 421.0,
+      "end": 424.0,
+      "text": " In my case, I already have a path that I want to work in."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 424.0,
+      "end": 426.0,
+      "text": " So let me paste it in."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 426.0,
+      "end": 431.0,
+      "text": " And there I want to select a code folder, which at the moment is entirely empty."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 431.0,
+      "end": 435.0,
+      "text": " With the folder selected, I want to click on select folder."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 435.0,
+      "end": 438.0,
+      "text": " And then nothing has really changed."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 438.0,
+      "end": 441.0,
+      "text": " Although now, if we are clicking on the explorer again, we can see code,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 441.0,
+      "end": 444.0,
+      "text": " and we can see that there is nothing inside of the folder."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 444.0,
+      "end": 449.0,
+      "text": " To fix that, I want to right click, and then create a new file."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 449.0,
+      "end": 452.0,
+      "text": " This file now needs a name. Let's call it setup."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 452.0,
+      "end": 459.0,
+      "text": " We will need .py as a file ending, so our computer knows that we have a python file."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 459.0,
+      "end": 465.0,
+      "text": " If we are doing that, you also get the python icon, a little snake on the left side of it."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 465.0,
+      "end": 468.0,
+      "text": " And if I now press enter, we can write some code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 468.0,
+      "end": 472.0,
+      "text": " Also, we still have the welcome tab, this one you can just close."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 472.0,
+      "end": 477.0,
+      "text": " Also, if you look at the bottom right, there you can see we have python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 477.0,
+      "end": 482.0,
+      "text": " And if you click on python, you could select another language, but this is not what I want to do."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 482.0,
+      "end": 486.0,
+      "text": " Instead, I want to write some incredibly simple python logic."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 486.0,
+      "end": 489.0,
+      "text": " And for that, I want to write the word print."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 489.0,
+      "end": 495.0,
+      "text": " Then use parentheses, then quotation marks, and in quotation marks the word test."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 495.0,
+      "end": 498.0,
+      "text": " Or whatever word you want to print."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 498.0,
+      "end": 501.0,
+      "text": " Make sure you are spelling this in the exact same way."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 501.0,
+      "end": 504.0,
+      "text": " For all programming languages, you have to make sure that you don't have typos,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 504.0,
+      "end": 508.0,
+      "text": " and parentheses and quotation marks are really important."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 508.0,
+      "end": 512.0,
+      "text": " Alright, with that we have one line of python code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 512.0,
+      "end": 515.0,
+      "text": " But now we have to figure out how to run all of this."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 515.0,
+      "end": 518.0,
+      "text": " And this we can't really do right now."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 518.0,
+      "end": 522.0,
+      "text": " For that, you want to look on the left side."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 522.0,
+      "end": 524.0,
+      "text": " There we have extensions."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 524.0,
+      "end": 527.0,
+      "text": " This you want to click on, and then you already get a recommendation"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 527.0,
+      "end": 531.0,
+      "text": " that you should install a python extension for VS Code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 531.0,
+      "end": 536.0,
+      "text": " If you cannot see this one, simply type in the search bar python,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 536.0,
+      "end": 539.0,
+      "text": " and it should be the first result."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 539.0,
+      "end": 541.0,
+      "text": " This is what we want to install."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 541.0,
+      "end": 545.0,
+      "text": " It's going to take a few seconds, and then we have python installed."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 545.0,
+      "end": 548.0,
+      "text": " If you now go back to setup.py,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 548.0,
+      "end": 553.0,
+      "text": " in the top right, you can see a run python file symbol."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 553.0,
+      "end": 558.0,
+      "text": " If you click on that, you get a terminal, and in there we have test."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 558.0,
+      "end": 562.0,
+      "text": " This is the word we have just written inside of the print statement."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 562.0,
+      "end": 564.0,
+      "text": " And that is all that print does."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 564.0,
+      "end": 566.0,
+      "text": " It simply prints out a word."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 566.0,
+      "end": 569.0,
+      "text": " And with that, we have some basic python setup."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 569.0,
+      "end": 573.0,
+      "text": " Now, you can customize VS Code quite a bit."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 573.0,
+      "end": 576.0,
+      "text": " For example, what is really popular is,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 576.0,
+      "end": 579.0,
+      "text": " I think this is called material icon."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 579.0,
+      "end": 581.0,
+      "text": " This is a purely visual extension."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 581.0,
+      "end": 584.0,
+      "text": " At the moment, if you are looking at the explorer,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 584.0,
+      "end": 586.0,
+      "text": " the python symbol looks a bit boring."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 586.0,
+      "end": 589.0,
+      "text": " And for that, if you are installing material icon,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 589.0,
+      "end": 593.0,
+      "text": " or any other theme, let me install material icon,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 593.0,
+      "end": 596.0,
+      "text": " and then you have to select an icon theme."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 596.0,
+      "end": 599.0,
+      "text": " SETI is the default one, but I want to use material icon theme."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 599.0,
+      "end": 601.0,
+      "text": " So click on that."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 601.0,
+      "end": 603.0,
+      "text": " And now, if you go back to the explorer,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 603.0,
+      "end": 606.0,
+      "text": " the python symbol looks significantly better."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 606.0,
+      "end": 609.0,
+      "text": " And that's all that's happening in here."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 609.0,
+      "end": 612.0,
+      "text": " There are loads more extensions you could be using,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 612.0,
+      "end": 615.0,
+      "text": " but to get started, you don't really need any more."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 615.0,
+      "end": 618.0,
+      "text": " Also, you can close the tab with the extension,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 618.0,
+      "end": 619.0,
+      "text": " and the new welcome tab."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 619.0,
+      "end": 621.0,
+      "text": " We will not be needing any of those."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 621.0,
+      "end": 623.0,
+      "text": " However, what you might want to do,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 623.0,
+      "end": 625.0,
+      "text": " is to customize a few more minor things."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 625.0,
+      "end": 627.0,
+      "text": " Like the font size, for example."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 627.0,
+      "end": 630.0,
+      "text": " If you are watching all of this on a smartphone,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 630.0,
+      "end": 632.0,
+      "text": " the text is going to be really small."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 632.0,
+      "end": 634.0,
+      "text": " For that, you want to go to file,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 634.0,
+      "end": 636.0,
+      "text": " then to preferences,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 636.0,
+      "end": 639.0,
+      "text": " and in there, we have settings."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 639.0,
+      "end": 643.0,
+      "text": " If you click on that, you can customize basically anything"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 643.0,
+      "end": 645.0,
+      "text": " inside of VS Code."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 645.0,
+      "end": 647.0,
+      "text": " For example, there we have the font size."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 647.0,
+      "end": 650.0,
+      "text": " You can set this one, for example, to 20."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 650.0,
+      "end": 652.0,
+      "text": " And if you now press CTRL S to save,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 652.0,
+      "end": 654.0,
+      "text": " go back to setup,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 654.0,
+      "end": 656.0,
+      "text": " you have much larger text."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 656.0,
+      "end": 658.0,
+      "text": " You can also use search settings,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 658.0,
+      "end": 662.0,
+      "text": " and type in something like terminal font size."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 662.0,
+      "end": 666.0,
+      "text": " Usually VS Code is very good with the search function."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 666.0,
+      "end": 669.0,
+      "text": " There we have integrated font size for the terminal."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 669.0,
+      "end": 672.0,
+      "text": " Let's change this one to maybe 20."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 672.0,
+      "end": 674.0,
+      "text": " And now, we have much larger text."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 674.0,
+      "end": 676.0,
+      "text": " Could even be a bit larger,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 676.0,
+      "end": 678.0,
+      "text": " let's say something like 24."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 678.0,
+      "end": 679.0,
+      "text": " That looks about right."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 679.0,
+      "end": 681.0,
+      "text": " Simply choose the number that you like."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 681.0,
+      "end": 682.0,
+      "text": " It's entirely up to you."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 682.0,
+      "end": 684.0,
+      "text": " These numbers are fairly subjective,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 684.0,
+      "end": 686.0,
+      "text": " and also depend on your device."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 686.0,
+      "end": 687.0,
+      "text": " Simply play around with them,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 687.0,
+      "end": 689.0,
+      "text": " and see what feels right."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 689.0,
+      "end": 691.0,
+      "text": " Now besides that, what you can also do,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 691.0,
+      "end": 694.0,
+      "text": " if you go back to file, preferences,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 694.0,
+      "end": 697.0,
+      "text": " and there we have keyboard shortcuts."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 697.0,
+      "end": 699.0,
+      "text": " Those can be quite nice."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 699.0,
+      "end": 701.0,
+      "text": " For example, what I might want to do,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 701.0,
+      "end": 705.0,
+      "text": " instead of always clicking on the execute or run python file,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 705.0,
+      "end": 708.0,
+      "text": " I want to bind this to a shortcut."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 708.0,
+      "end": 710.0,
+      "text": " And for that, you go to keyboard shortcuts,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 710.0,
+      "end": 712.0,
+      "text": " and then use the search function."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 712.0,
+      "end": 717.0,
+      "text": " I want to use a shortcut for run python file."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 717.0,
+      "end": 720.0,
+      "text": " And there we have the command,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 720.0,
+      "end": 722.0,
+      "text": " and if you double click on keybinding,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 722.0,
+      "end": 724.0,
+      "text": " you can set a shortcut."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 724.0,
+      "end": 727.0,
+      "text": " In my case, I'm going to use alt and a,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 727.0,
+      "end": 730.0,
+      "text": " which is a shortcut that isn't used by VS Code,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 730.0,
+      "end": 732.0,
+      "text": " but is also very easy to use on your keyboard."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 732.0,
+      "end": 734.0,
+      "text": " If you now press enter,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 734.0,
+      "end": 736.0,
+      "text": " you can go back to setup.py,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 736.0,
+      "end": 739.0,
+      "text": " and instead of clicking on the symbol,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 739.0,
+      "end": 741.0,
+      "text": " you can, let me close this actually,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 741.0,
+      "end": 743.0,
+      "text": " you can simply press alt and a,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 743.0,
+      "end": 745.0,
+      "text": " and you get the same result."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 745.0,
+      "end": 747.0,
+      "text": " Makes the entire thing much faster to work with."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 747.0,
+      "end": 748.0,
+      "text": " Nearly done."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 748.0,
+      "end": 752.0,
+      "text": " The last thing that I want to cover is a full screen mode."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 752.0,
+      "end": 755.0,
+      "text": " And the shortcut for that is a bit weird."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 755.0,
+      "end": 756.0,
+      "text": " If you go to view,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 756.0,
+      "end": 759.0,
+      "text": " there you have appearance,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 759.0,
+      "end": 761.0,
+      "text": " and if you go to full screen, or zen mode,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 761.0,
+      "end": 764.0,
+      "text": " and the shortcut for zen mode is ctrl k,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 764.0,
+      "end": 767.0,
+      "text": " then you release the keys, and then the z key."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 767.0,
+      "end": 770.0,
+      "text": " Or you can simply click on it, same result."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 770.0,
+      "end": 772.0,
+      "text": " But if you want to get out of it,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 772.0,
+      "end": 774.0,
+      "text": " you press ctrl k, and then you release ctrl,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 774.0,
+      "end": 776.0,
+      "text": " and then press z."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 776.0,
+      "end": 778.0,
+      "text": " That way you go back."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 778.0,
+      "end": 781.0,
+      "text": " The keyboard shortcut does get a bit of time to get used to,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 781.0,
+      "end": 783.0,
+      "text": " but once you do, it's actually quite nice."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 783.0,
+      "end": 786.0,
+      "text": " And I am going to write most of my code in something like this."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 786.0,
+      "end": 790.0,
+      "text": " That way it's going to be quite a bit easier to focus on one thing at a time."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 790.0,
+      "end": 793.0,
+      "text": " But other than that, we can still run the code via the symbol,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 793.0,
+      "end": 795.0,
+      "text": " or we can press ctrl a,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 795.0,
+      "end": 797.0,
+      "text": " you're getting the same outcome."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 797.0,
+      "end": 799.0,
+      "text": " Also, what you can do,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 799.0,
+      "end": 802.0,
+      "text": " if you go back to file, and preferences,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 802.0,
+      "end": 803.0,
+      "text": " under settings,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 803.0,
+      "end": 806.0,
+      "text": " you can customize the zen mode quite a bit as well."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 806.0,
+      "end": 809.0,
+      "text": " For example, in my case, I don't really like the center layout."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 809.0,
+      "end": 811.0,
+      "text": " If I now go back to setup.py,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 811.0,
+      "end": 812.0,
+      "text": " and go back to zen mode,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 812.0,
+      "end": 815.0,
+      "text": " we have the code all the way on the left."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 815.0,
+      "end": 818.0,
+      "text": " And in settings, you could also hide"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 818.0,
+      "end": 821.0,
+      "text": " the tabs, those are the icons at the top,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 821.0,
+      "end": 822.0,
+      "text": " to switch between files."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 822.0,
+      "end": 825.0,
+      "text": " Since I am mostly going to work with a single file,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 825.0,
+      "end": 827.0,
+      "text": " I am going to set this to none."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 827.0,
+      "end": 829.0,
+      "text": " That way, if I now go to setup,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 829.0,
+      "end": 832.0,
+      "text": " and go back into zen mode,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 832.0,
+      "end": 834.0,
+      "text": " we only have the one python file."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 834.0,
+      "end": 837.0,
+      "text": " And that, I think, at least to get started,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 837.0,
+      "end": 839.0,
+      "text": " is a really good setup."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 839.0,
+      "end": 842.0,
+      "text": " But once again, simply choose what you like the most."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 842.0,
+      "end": 844.0,
+      "text": " There is no universal answer for any of this."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 844.0,
+      "end": 846.0,
+      "text": " But anyway, with all of that,"
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 846.0,
+      "end": 848.0,
+      "text": " we have a setup of python."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 848.0,
+      "end": 852.0,
+      "text": " So next up, we can work on writing some actual python logic."
+    },
+    {
+      "number": "001 ",
+      "title": " Intro & Setup",
+      "start": 852.0,
+      "end": 853.0,
+      "text": " I'll see you there!"
+    }
+  ],
+  "text": " Hello there! In this tutorial series, you are going to learn everything about the Python programming language. And just to get started, I will cover two major parts. Number one, why choose Python in the first place? Number two is going to be about how to get started. First of all though, why choose Python in the first place? And for that, you have to be aware that there are hundreds of programming languages. And usually, a language is made for a specific purpose. For example, JavaScript was initially developed to make websites interactive and super shiny. Although ever since then, it basically expanded to do pretty much everything. Python on the other hand was originally developed to teach people coding. Back then, it wasn't even meant to be an actual programming language. But over time, it grew very fast and was steadily expanded, and eventually it became a real programming language, that was actually surprisingly popular. Today, actually, Python is arguably the most popular programming language. With that, we are getting a couple of advantages. Most importantly, because of its history, Python is incredibly easy to learn and to use. It is incredibly streamlined, very forgiving, and makes it super easy to find mistakes. On top of that, there is a huge community around Python. Which is amazing if you have a question or want a tutorial. Because somebody probably already asked a question or made a tutorial on it. Also, because of this huge community, there are lots of expansions to Python, that all make the language even more useful. Finally, Python is primarily used for data analysis, artificial intelligence, and servers or data stuff in general. Jobs that are very much in demand and generally well paid. However, you have to be aware that there are some disadvantages when it comes to Python. The most noticeable one is that Python is comparatively slow. It sacrifices speed to be more flexible and easy to use. Which in most cases is not going to matter for your specific purpose. Which for most cases isn't really going to make a difference. And lots of modules in Python are actually getting around this limitation. Where you notice this limitation the most is in game development. Now, you can make games in Python, but it's not really a professional thing. Most of the time it's either a hobby or a way to learn programming. If you want to learn actual game development, you would want to use a game engine. Like Godot, Unreal or Unity. Besides that, Python isn't really used for apps or user interfaces. Once again, you could be using it for that purpose, but there are better tools available. You would rather use React or something like Flutter. Which are giving you significantly more and better tools. Finally, Python is giving you less control over the hardware. Now this in most cases is a kind of control you don't really care about. For example, in other languages you could control the memory management of your computer. And if you don't know what that means, don't worry too much about it. You are probably not going to use it in the first place. The general philosophy of Python is to abstract all of these problems away. So you can focus on the actual logic of what you are trying to achieve. With that, you might have the question. If you are just starting, what programming language should you start with? And for that question, Python is usually a good answer. Mostly because it is incredibly easy to learn. What you can do, if you don't end up liking Python or want to do something else. It is very easy to switch to another programming language and then retain most of the knowledge. Programming languages share a lot of ideas. Meaning if you know Python, it becomes significantly easier to learn something like C++ or JavaScript or literally any other programming language. Alright, now with all of that, we have to talk about how to use Python. And there are two steps to that. Number one, we have to install Python itself. It's just going to be another file on your computer. After that, we are going to need a code editor. I am going to use Visual Studio Code, or VS Code in short. Which is I think the most popular code editor. Although there are quite a few alternatives. Sublime, PyCharm and Atom are really popular ones as well. And there are loads more. If you already know some coding and you have a code editor that you really like to use, you can totally keep on using that one. Alright, so let's get started on how to install Python. For that, you want to go to Google and type something like Python download. Or simply Python should also be good enough. Then the first result should be the official Python website. Click on that and then you can see a Python download button. At the moment, the most recent version of Python is Python 3.12. Which is what I am going to use for this tutorial. If you click on that, a download should start. Once this one is done, you can go to your downloads folder. Double click on the Python symbol and then you should get the install dialog. Before you click on install now, there is one really important thing you have to do. And that is to add python.exe to path. If you are on Windows. On Mac OS, this is happening automatically. But on Windows, you have to make sure that you are adding Python to the path. That way a code editor could find the program and use it to run Python. If you are not ticking this box, you are going to have lots of errors. So make sure to tick it. And then click on install now. You can also customize the installation, but you don't really need to. Then you have to wait a few seconds and after that you should have Python installed. Next up, we have to get a code editor. And in my case, I want to use Visual Studio Code or VS Code in short. For that, go back to your search engine of choice and type in VS Code download. The first result should be what you need. And on that website, you can choose your operating system. In my case, I am working on Windows. But obviously, if you are on Mac OS, click on the Mac download button. Click on the icon and then you can install it like any other program. I would recommend to keep all the default options. But do make sure that you have the add to path ticked. That one does matter. After all of that is done, you can click on launch Visual Studio Code. Which is what I want to do. Once you have done that, you should be seeing something like this. Now, the main window you don't really have to worry about too much. What is rather important is on the left side. There you have a couple of icons that are much more important. For example, at the top we have the explorer. And in there you can see all of your open folders and files. As a matter of fact, while we are here, I want to open a folder, which I am going to use for all of my files. Meaning I want to open a folder, and then you should be seeing something like this. Basically what you want to do is to create a folder with all of your code. In my case, I already have a path that I want to work in. So let me paste it in. And there I want to select a code folder, which at the moment is entirely empty. With the folder selected, I want to click on select folder. And then nothing has really changed. Although now, if we are clicking on the explorer again, we can see code, and we can see that there is nothing inside of the folder. To fix that, I want to right click, and then create a new file. This file now needs a name. Let's call it setup. We will need .py as a file ending, so our computer knows that we have a python file. If we are doing that, you also get the python icon, a little snake on the left side of it. And if I now press enter, we can write some code. Also, we still have the welcome tab, this one you can just close. Also, if you look at the bottom right, there you can see we have python. And if you click on python, you could select another language, but this is not what I want to do. Instead, I want to write some incredibly simple python logic. And for that, I want to write the word print. Then use parentheses, then quotation marks, and in quotation marks the word test. Or whatever word you want to print. Make sure you are spelling this in the exact same way. For all programming languages, you have to make sure that you don't have typos, and parentheses and quotation marks are really important. Alright, with that we have one line of python code. But now we have to figure out how to run all of this. And this we can't really do right now. For that, you want to look on the left side. There we have extensions. This you want to click on, and then you already get a recommendation that you should install a python extension for VS Code. If you cannot see this one, simply type in the search bar python, and it should be the first result. This is what we want to install. It's going to take a few seconds, and then we have python installed. If you now go back to setup.py, in the top right, you can see a run python file symbol. If you click on that, you get a terminal, and in there we have test. This is the word we have just written inside of the print statement. And that is all that print does. It simply prints out a word. And with that, we have some basic python setup. Now, you can customize VS Code quite a bit. For example, what is really popular is, I think this is called material icon. This is a purely visual extension. At the moment, if you are looking at the explorer, the python symbol looks a bit boring. And for that, if you are installing material icon, or any other theme, let me install material icon, and then you have to select an icon theme. SETI is the default one, but I want to use material icon theme. So click on that. And now, if you go back to the explorer, the python symbol looks significantly better. And that's all that's happening in here. There are loads more extensions you could be using, but to get started, you don't really need any more. Also, you can close the tab with the extension, and the new welcome tab. We will not be needing any of those. However, what you might want to do, is to customize a few more minor things. Like the font size, for example. If you are watching all of this on a smartphone, the text is going to be really small. For that, you want to go to file, then to preferences, and in there, we have settings. If you click on that, you can customize basically anything inside of VS Code. For example, there we have the font size. You can set this one, for example, to 20. And if you now press CTRL S to save, go back to setup, you have much larger text. You can also use search settings, and type in something like terminal font size. Usually VS Code is very good with the search function. There we have integrated font size for the terminal. Let's change this one to maybe 20. And now, we have much larger text. Could even be a bit larger, let's say something like 24. That looks about right. Simply choose the number that you like. It's entirely up to you. These numbers are fairly subjective, and also depend on your device. Simply play around with them, and see what feels right. Now besides that, what you can also do, if you go back to file, preferences, and there we have keyboard shortcuts. Those can be quite nice. For example, what I might want to do, instead of always clicking on the execute or run python file, I want to bind this to a shortcut. And for that, you go to keyboard shortcuts, and then use the search function. I want to use a shortcut for run python file. And there we have the command, and if you double click on keybinding, you can set a shortcut. In my case, I'm going to use alt and a, which is a shortcut that isn't used by VS Code, but is also very easy to use on your keyboard. If you now press enter, you can go back to setup.py, and instead of clicking on the symbol, you can, let me close this actually, you can simply press alt and a, and you get the same result. Makes the entire thing much faster to work with. Nearly done. The last thing that I want to cover is a full screen mode. And the shortcut for that is a bit weird. If you go to view, there you have appearance, and if you go to full screen, or zen mode, and the shortcut for zen mode is ctrl k, then you release the keys, and then the z key. Or you can simply click on it, same result. But if you want to get out of it, you press ctrl k, and then you release ctrl, and then press z. That way you go back. The keyboard shortcut does get a bit of time to get used to, but once you do, it's actually quite nice. And I am going to write most of my code in something like this. That way it's going to be quite a bit easier to focus on one thing at a time. But other than that, we can still run the code via the symbol, or we can press ctrl a, you're getting the same outcome. Also, what you can do, if you go back to file, and preferences, under settings, you can customize the zen mode quite a bit as well. For example, in my case, I don't really like the center layout. If I now go back to setup.py, and go back to zen mode, we have the code all the way on the left. And in settings, you could also hide the tabs, those are the icons at the top, to switch between files. Since I am mostly going to work with a single file, I am going to set this to none. That way, if I now go to setup, and go back into zen mode, we only have the one python file. And that, I think, at least to get started, is a really good setup. But once again, simply choose what you like the most. There is no universal answer for any of this. But anyway, with all of that, we have a setup of python. So next up, we can work on writing some actual python logic. I'll see you there!"
+}
