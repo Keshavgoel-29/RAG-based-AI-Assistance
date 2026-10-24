@@ -1,0 +1,15 @@
+# Large media — keep these out of git
+videos/
+audios/
+whisper_out/
+unused/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
